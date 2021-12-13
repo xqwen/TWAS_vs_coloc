@@ -1,0 +1,20 @@
+GWAS summary statistics:
+
+variant_id	panel_variant_id	chromosome	position	effect_allele	non_effect_allelecurrent_build	frequency	sample_size	zscore	pvalue	effect_size	standard_error	imputation_status	n_cases
+rs6667279	chr1_151769933_A_G_b38	chr1	151769933	G	A	hg38	0.32285	184305	3.067302703857422	0.00216	0.030244	0.009860128888474332	original	60801.0
+rs1521185	chr1_151791573_A_G_b38	chr1	151791573	G	A	hg38	0.787245	184305	4.8337273597717285	1.34e-06	0.055975	0.011580090442387593	original	60801.0
+
+
+TORUS input:
+
+chr1_151769933_A_G_b38  Loc75  3.067303
+chr1_151791573_A_G_b38  Loc75  4.833727
+
+TORUS output/PIP info 
+
+chr1_151769933_A_G_b38	Loc75	1.2494e-04	3.1841e-05
+chr1_151791573_A_G_b38	Loc75	6.6510e-02	3.1841e-05
+
+
+
+MR estimates of causal effects
