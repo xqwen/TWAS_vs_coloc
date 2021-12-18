@@ -8,13 +8,13 @@
 
 4. Output files are organized in ```fastENLOC_output``` and ```PTWAS_scan_output```
 
-5. Tally comparison for each trait by 
+5. Tally comparison for each trait by
 
 ```
 perl scripts/batch_cmp.pl
 ```
 
-output files are in ```comparison``` directory
+output files are saved in ```comparison``` directory
 
 
 6. Produce summary information
@@ -59,10 +59,6 @@ perl scripts/assemble_PTWAS.pl CAD
 
 5. compute I^2 and combine results
 ```
-perl scripts/batch_PTWAS_est.pl > results/summary.I2.rst 
+perl scripts/batch_PTWAS_est.pl > results/summary.I2.rst
 perl scripts/combine_summary.pl > results/strong_coloc_weak_twas.summary
 ```
-
-
-
-
