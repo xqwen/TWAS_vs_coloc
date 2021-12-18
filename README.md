@@ -1,13 +1,13 @@
 # Analyzing and Reconciling Colocalization and Transcriptome-wide Association Studies from the Perspective of Inferential Reproducibility
 
 
-This repo documents the data analysis and simulation studies performed in the manuscript "Analyzing and Reconciling Colocalization and Transcriptome-wide Association Studies from the Perspective of Inferential Reproducibility". The manuscript is available [here](https://www.biorxiv.org/content/10.1101/2021.10.29.466468v1.full)
+This repo documents the data analysis and simulation studies performed in the manuscript "Analyzing and Reconciling Colocalization and Transcriptome-wide Association Studies from the Perspective of Inferential Reproducibility". The manuscript is available [here](https://www.biorxiv.org/content/10.1101/2021.10.29.466468v1.full).
 
 
 
 ## Software Implementation
 
-The locus-level colocalization method described in the manuscript is implemented in the software package [fastENLOC](https://github.com/xqwen/fastenloc), version 2. The code depository is currently located in the [this repo directory](https://github.com/xqwen/fastenloc/tree/master/dev).
+The locus-level colocalization method described in the manuscript is implemented in the software package [fastENLOC](https://github.com/xqwen/fastenloc), version 2. The code depository is currently located in the [this repo directory](https://github.com/xqwen/fastenloc/tree/master/dev).  
 
 ## Simulation Studies
 
