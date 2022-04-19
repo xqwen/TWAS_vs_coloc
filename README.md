@@ -7,7 +7,7 @@ This repo documents the data analysis and simulation studies performed in the ma
 
 ## Software Implementation
 
-The locus-level colocalization method described in the manuscript is implemented in the software package [fastENLOC](https://github.com/xqwen/fastenloc), version 2. The code depository is currently located in the [this repo directory](https://github.com/xqwen/fastenloc/tree/master/dev).  
+The locus-level colocalization method described in the manuscript is implemented in the software package [fastENLOC](https://github.com/xqwen/fastenloc), version 2. 
 
 ## Simulation Studies
 
